@@ -12,3 +12,7 @@ This is my collection of documents and code relevant to CS4375
 [Regression pdf](02-linear-models/regression.pdf)
 [Classification pdf](02-linear-models/classification.pdf)
 
+## Machine Learning Algorithms From Scratch
+[pdf](03-ml-algorithms-from-scratch/03-ml-algorithms-from-scratch.pdf)
+[logistic-regression-cpp](03-ml-algorithms-from-scratch/logistic-regression.cpp)
+[naive-bayes-cpp](03-ml-algorithms-from-scratch/naive-bayes.cpp)
