@@ -16,3 +16,6 @@ This is my collection of documents and code relevant to CS4375
 #### [pdf](03-ml-algorithms-from-scratch/03-ml-algorithms-from-scratch.pdf)  
 #### [logistic-regression-cpp](03-ml-algorithms-from-scratch/logistic-regression.cpp)  
 #### [naive-bayes-cpp](03-ml-algorithms-from-scratch/naive-bayes.cpp)  
+
+## Similarity Algorithms
+#### [Part 2 - Classification](04-similarity/02-classification.pdf)
