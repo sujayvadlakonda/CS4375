@@ -18,4 +18,5 @@ This is my collection of documents and code relevant to CS4375
 #### [naive-bayes-cpp](03-ml-algorithms-from-scratch/naive-bayes.cpp)  
 
 ## Similarity Algorithms
+The following my portion of a group project.
 #### [Part 2 - Classification](04-similarity/02-classification.pdf)
