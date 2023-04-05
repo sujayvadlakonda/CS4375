@@ -20,3 +20,6 @@ This is my collection of documents and code relevant to CS4375
 ## Similarity Algorithms
 The following my portion of a group project.
 #### [Part 2 - Classification](04-similarity/02-classification.pdf)
+
+## Machine Learning in Python
+#### [Machine Learning in Python with skLearn](05-python-ml/python-ml-with-sklearn.pdf)
