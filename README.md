@@ -23,3 +23,6 @@ The following my portion of a group project.
 
 ## Machine Learning in Python
 #### [Machine Learning in Python with skLearn](05-python-ml/python-ml-with-sklearn.pdf)
+
+## Image Classification with DL
+#### [Image Classification with DL](06-image-classification-with-dl/06-image-classification-with-dl.pdf)
