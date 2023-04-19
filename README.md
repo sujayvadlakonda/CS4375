@@ -1,5 +1,7 @@
 # Course work from CS 4375: Introduction to Machine Learning
 
+## [Skills](skills.md)
+
 ## Overview of Machine Learning
 #### [[PDF] Overview of Machine Learning](00-overview-of-machine-learning.pdf)  
 
